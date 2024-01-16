@@ -1,30 +1,40 @@
 .logo {
 	 float: left;
+	 width: 200px; 
+	 height: 150px;
 }
  nav {
-	 float: right;
+	 float: none;
 }
  nav ul {
 	 margin: 0;
-	 padding: 0;
+     padding: 0;
 	 list-style: none;
 }
  nav li {
 	 display: inline-block;
+	 padding-left: 100px;
 }
  body {
-	 background: #000000;
+	 background: #f0eaea;
 	 color: #fff;
 }
+.container 
+{
+ width: 100vw;
+ height: 400px;
+ background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+ }
+ .container2
+{
+ width: 100vw;
+ height: 800px;
+ background-color: gray;
+ }
+.image {
+	vertical-align: left;
+}
  a {
-	 color: #808000
-}
- h1 {
-	 color: #008080
-}
- p {
-	 color: #008000
-}
- ol {
-	 color: #008000
+	 color: #0e0e00;
+	 font-size: 30px;
 }

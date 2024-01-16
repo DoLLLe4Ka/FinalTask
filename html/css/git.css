@@ -1,32 +1,13 @@
 body {
     font-size: 24px;
 }
-.green {
+h3 {
     color: blue;
+    font-style: bold;
 }
-.red {
-    color: green;
-}
-.blue {
+b.red {
     color: red;
-}
-li.green {
-    color: red;
-}
-li.red {
-    color: blue;
-}
-li.blue {
-    color: green;
-}
-ul ol li.red {
-    color: cyan;
-}
-ul ol li.green {
-    color: orange;
-}
-ul ol li.blue {
-    color: magenta;
+    font-style: bold;
 }
 p.italic {
     font-weight: italic;
